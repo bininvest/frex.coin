@@ -1,2 +1,3 @@
 # FREX.coin
-Создан на примере (trc20)_contract
+Создан на основе (trc20)_contract
+Свободный/frex.coin
